@@ -5,7 +5,6 @@ public class Test {
 		System.out.println("Just for test!");
 		System.out.println("Just for test!2");
 		System.out.println("Just for test!3");
-		
+		System.out.println("Just for test!4");
 	}
-
 }
